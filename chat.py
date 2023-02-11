@@ -1,7 +1,7 @@
 import requests
 
 # Replace "YOUR_API_KEY" with your actual API Key from OpenAI
-api_key = "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"
+api_key = "Api"
 model = "text-davinci-002"
 prompt = "What is your name?"
 
